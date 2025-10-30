@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Mohamed Atlam!
-<a href="https://www.linkedin.com/" target="_blank"><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href="https://twitter.com/" target="_blank"><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
-<a href="https://www.kaggle.com/" target="_blank"><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
+<a href="https://www.linkedin.com/in/mohamed-atlam-597496290/" target="_blank"><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href="https://x.com/MAtlam64" target="_blank"><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
+<br><br>
 
 I am a Frontend Developer passionate about modern web development, design, and AI technologies. Currently studying at the **Faculty of Artificial Intelligence, Menoufia University (Shoubra El-Kom)**. I enjoy building responsive UIs, integrating APIs, and exploring deep learning & machine learning.
 <br/><br/>
