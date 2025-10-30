@@ -38,6 +38,8 @@ I am a Frontend Developer passionate about modern web development, design, and A
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" height='42px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img align="left" alt="figma" height='42px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"/> </a>
 
+<br>
+
 <!-- Axios -->
 <a href="https://axios-http.com/" target="_blank"> <img align="left" alt="Axios" height='42px' src="https://axios-http.com/assets/logo.svg"/> </a>
 
