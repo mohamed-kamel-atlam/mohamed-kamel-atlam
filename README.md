@@ -19,7 +19,7 @@ I am a Frontend Developer passionate about modern web development, design, and A
 - 📫 &nbsp; Contact me anytime on **LinkedIn**
 - 🧠 &nbsp; Exploring intersection of **AI + Frontend**
 
-<br><br><br>
+<br><br><br><br>
 
 ### 🔨 Languages and Tools:
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img align="left" alt="HTML" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> </a>
@@ -37,7 +37,7 @@ I am a Frontend Developer passionate about modern web development, design, and A
 <a href="https://pytorch.org/" target="_blank"> <img align="left" alt="PyTorch" height='42px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"/> </a>
 <a href="https://www.tensorflow.org/" target="_blank"> <img align="left" alt="TensorFlow" height='42px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"/> </a>
 
-<br><br><br>
+<br><br><br><br>
 
 ### 📬 Contact Me
 
@@ -46,5 +46,6 @@ I am a Frontend Developer passionate about modern web development, design, and A
 <a href="mailto:m7mdatlam@gmail.com" target="_blank" style="margin-right:10px;"><img alt="Email" src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 
 ---
+<br>
 
 ⭐️ From **Mohamed Atlam** — Frontend Developer & AI Learner
