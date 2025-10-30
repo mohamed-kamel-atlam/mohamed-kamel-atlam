@@ -30,12 +30,21 @@ I am a Frontend Developer passionate about modern web development, design, and A
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" alt="Typescript" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> </a>
 <a href="https://react.dev/" target="_blank"> <img align="left" alt="React" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> </a>
+
+<!-- ✅ Added Redux -->
+<a href="https://redux.js.org/" target="_blank"> <img align="left" alt="Redux" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"> </a>
+
 <a href="https://motion.dev/" target="_blank"> <img align="left" alt="Framer Motion" height="42px" src="https://www.svgrepo.com/show/361507/framer-logo.svg"> </a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" height='42px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img align="left" alt="figma" height='42px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"/> </a>
+
+<!-- Axios -->
+<a href="https://axios-http.com/" target="_blank"> <img align="left" alt="Axios" height='42px' src="https://axios-http.com/assets/logo.svg"/> </a>
+
 <a href="https://www.python.org/" target="_blank"> <img align="left" alt="Python" height='42px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/> </a>
 <a href="https://pytorch.org/" target="_blank"> <img align="left" alt="PyTorch" height='42px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"/> </a>
 <a href="https://www.tensorflow.org/" target="_blank"> <img align="left" alt="TensorFlow" height='42px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"/> </a>
+
 
 <br><br><br><br>
 
