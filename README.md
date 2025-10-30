@@ -30,7 +30,7 @@ I am a Frontend Developer passionate about modern web development, design, and A
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" alt="Typescript" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> </a>
 <a href="https://react.dev/" target="_blank"> <img align="left" alt="React" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> </a>
-<a href="https://motion.dev/" target="_blank"> <img align="left" alt="Framer Motion" height="42px" src="https://raw.githubusercontent.com/Framer/brand/master/framer-motion.svg"> </a>
+<a href="https://motion.dev/" target="_blank"> <img align="left" alt="Framer Motion" height="42px" src="https://www.svgrepo.com/show/361507/framer-logo.svg"> </a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" height='42px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img align="left" alt="figma" height='42px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"/> </a>
 <a href="https://www.python.org/" target="_blank"> <img align="left" alt="Python" height='42px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/> </a>
@@ -45,7 +45,6 @@ I am a Frontend Developer passionate about modern web development, design, and A
 <a href="https://github.com/mohamed-kamel-atlam" target="_blank" style="margin-right:10px;"><img alt="GitHub" src="https://skillicons.dev/icons?i=github" height="40"/></a>
 <a href="mailto:m7mdatlam@gmail.com" target="_blank" style="margin-right:10px;"><img alt="Email" src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 
-<br>
 ---
 
 ⭐️ From **Mohamed Atlam** — Frontend Developer & AI Learner
