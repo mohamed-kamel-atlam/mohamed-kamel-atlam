@@ -3,7 +3,7 @@
 <a href="https://x.com/MAtlam64" target="_blank"><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
 <br><br>
 
-I am a Frontend Developer passionate about modern web development, design, and AI technologies. Currently studying at the **Faculty of Artificial Intelligence, Menoufia University (Shoubra El-Kom)**. I enjoy building responsive UIs, integrating APIs, and exploring deep learning & machine learning.
+I am a Frontend Developer passionate about modern web development, design, and AI technologies. Currently studying at the **Faculty of Artificial Intelligence, Menoufia University (Shebin El Kom)**. I enjoy building responsive UIs, integrating APIs, and exploring deep learning & machine learning.
 <br/><br/>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
